@@ -15,3 +15,4 @@ A list of machine learning resources I find online:
 - [Wikipedia(FR) - Q Learning](https://fr.wikipedia.org/wiki/Q-learning)
 - [Wikipedia(EN) - Overfitting & Underfitting](https://en.wikipedia.org/wiki/Overfitting)
 - [Wikipedia(EN) - List of machine learning concepts](https://en.wikipedia.org/wiki/Outline_of_machine_learning)
+- [Wikipedia(EN) - Data Leakage](https://en.wikipedia.org/wiki/Leakage_(machine_learning))
